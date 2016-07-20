@@ -2,10 +2,13 @@
 <h4>A C5 Plugin</h4>
 <hr>
 <p>
-Repeatables refers to an element that is repeated by adding or substracting them via the blocks edit form.<br>
+Repeatables refers to an element that is repeated by adding or substracting them via the blocks edit form.
+</p>
+<p>
 What makes this package special is in the options menu you can toggle what kind of elements you want to repeat, whether it be images or links, or a combination.<br>
 This makes it so one block can do the job of what typically would be mutliple blocks, saving us great time in our web development process.
 </p>
+<h3>Background:</h3>
 <p>
 Typically when coding a website we start from a finished design file (illustrator).  Making a fully functioning C5 site is a combination of coding the style sheets and creating blocks that mimic the design.  Very often we need our blocks to contain a variable amount of what we call 'repeatble elements'.  Elements that can be repeated depending on content added.  For example, a list of sponsor logos at the bottom of the page would be a repeatable images block, where the images are added to the form and the blocks view.css and view.php outputs the images according to the design.
 </p>
