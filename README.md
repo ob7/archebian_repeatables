@@ -18,8 +18,11 @@ Well I have a great idea to hopefully save lots of time, it involves using one b
 <p>
 I have already created many custom blocks for creating these addons for each site we make, the goal of this project is to combine most of them into one block, further saving time by making it so we only need to alter styles rather than the controller, form, and db based on what content needs to be repeated.  Sometimes we need to make a repeatable image block that includes a link, sometimes the repeatable image block needs a link and a title, etc.  This block aims to consolidate this by allowing toggleable options via each blocks form enabling or disabling those different available elements for each repeated item.
 </p>
+<h3>
+Foundation:
+</h3>
 <p>
-The build in Concrete5 image_slider is technically a 'repeatable' image outputted as a slideshow.  Therefore, the starting code for this block is based on that core block.
+The built in Concrete5 image_slider is technically a 'repeatable' image outputted as a slideshow.  Therefore, the starting code for this block is based on that core block.
 </p>
 <hr>
 <h3>Disclaimer:</h3>
