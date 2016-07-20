@@ -1,5 +1,5 @@
 <h2>Archebian Repeatables</h2>
-<h4>C5 Plugin</h4>
+<h4>A C5 Plugin</h4>
 <hr>
 <p>
 Repeatables refers to an element that is repeated by adding or substracting them via the blocks edit form.<br>
